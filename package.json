@@ -1,0 +1,24 @@
+{
+  "name": "trying-mixed-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -p 4144 public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgfjt-boxbox/trying-mixed-streams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgfjt-boxbox/trying-mixed-streams/issues"
+  },
+  "homepage": "https://github.com/tgfjt-boxbox/trying-mixed-streams#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
